@@ -3,4 +3,4 @@ First project
 
 Author: Oleg MACARI
 
-Multipage application 
+Multipage application development project
